@@ -4,3 +4,4 @@ método para calcular la velocidad de escape. Luego, carga una lista de planetas
 nuevos planetas, validando la entrada para evitar errores. Un reto fue manejar la lectura de datos en un entorno funcional sin mutabilidad 
 y lograr que el programa no se detuviera con entradas inválidas. Finalmente, los datos se procesan y se imprimen con formato, mostrando la 
 velocidad de escape calculada para cada planeta.
+
